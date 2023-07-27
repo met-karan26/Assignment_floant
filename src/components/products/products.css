@@ -1,0 +1,68 @@
+.page{
+    margin:20px 10px;
+    background-color:rgba(248, 248, 248, 0.973);
+    padding:50px;
+}
+.container.bar{
+    border-top: 3px solid rgb(3, 219, 3);
+    padding-top:25px;
+}
+.btn{
+    background-color: rgb(3, 219, 3);
+    border: none;
+    color:white;
+    padding:10px 20px;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(4, 190, 4)
+}
+.card{
+    display: flex;
+    gap:25px;
+
+}
+.detail{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    max-height: 300px;
+
+   
+}
+h2{
+    margin: 0;
+    padding:2px 0;
+}
+h4{
+    margin: 0;
+    padding: 2px 0;
+}
+.cartbtn{
+    margin-left:25px;
+}
+span{
+    background-color: gray;
+    margin:5px;
+    padding:0 10px;
+    align-items: center;
+    border:0;
+    border-radius:2px;
+}
+.white{
+    background-color: white;
+   
+}
+.imgsize{
+    width:250px;
+    height:250px;
+}
+.red{
+    background-color: red;
+}
+.red:hover{
+    background-color: rgb(212, 3, 3);
+}
